@@ -8,8 +8,8 @@
     "description": """
         Implementa funcionalidade para importar xml da nfe.""",
     "contributors": [
-        "Danimar Ribeiro <danimaribeiro@gmail.com>",
-        "Daniel Paloschi <danielpaloschi.dev@gmail.com>",
+        "Luciano Vicentini <lvicentini@evops.com.br>",
+        "Walisson Tirtao Sobral <wsobral@evops.com.br>",
     ],
     "depends": ["sale", "l10n_br_eletronic_document"],
     "data": [

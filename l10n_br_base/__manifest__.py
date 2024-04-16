@@ -6,9 +6,9 @@
     "author": "Trustcode",
     "license": "Other OSI approved licence",
     "contributors": [
-        "Danimar Ribeiro <danimaribeiro@gmail.com>",
-        "Daniel Paloschi <danielpaloschi.dev@gmail.com>",
-        "Felipe Paloschi <paloschi.eca@gmail.com>",
+        "Luciano Vicentini <lvicentini@evops.com.br>",
+        "Walisson Tirtao Sobral <wsobral@evops.com.br>",
+        "Paulo Victor Aoki <paoki@evops.com.br>",
     ],
     "depends": [],
     "data": [

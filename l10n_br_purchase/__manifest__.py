@@ -7,8 +7,8 @@
     'license': 'Other OSI approved licence',
     "contributors": [
         "Johny Chen Jy <johnychenjy@gmail.com>",
-        "Felipe Paloschi <paloschi.eca@gmail.com>",
-        "Daniel Paloschi <danielpaloschi.dev@gmail.com>",
+        "Paulo Victor Aoki <paoki@evops.com.br>",
+        "Walisson Tirtao Sobral <wsobral@evops.com.br>",
     ],
     "depends": [
         "purchase", "l10n_br_account"
