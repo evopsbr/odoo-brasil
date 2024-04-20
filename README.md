@@ -29,15 +29,11 @@ Para dúvidas acesse: [Documentação](http://www.odoo-next.com.br/my/documents/
 
 ## Introdução
 
-Este repositório adapta o Odoo 16 para ser usado no Brasil
+Este repositório adapta o Odoo 17 para ser usado no Brasil
 
 Procurando pelas outras versões?
-* [Versão 15.0](https://github.com/Trust-Code/odoo-brasil/tree/15.0)
-* [Versão 14.0](https://github.com/Trust-Code/odoo-brasil/tree/14.0)
-* [Versão 13.0](https://github.com/Trust-Code/odoo-brasil/tree/13.0)
-* [Versão 12.0](https://github.com/Trust-Code/odoo-brasil/tree/12.0)
-* [Versão 11.0](https://github.com/Trust-Code/odoo-brasil/tree/11.0)
-* [Versão 10.0](https://github.com/Trust-Code/odoo-brasil/tree/10.0)
+* [Versão 17.0](https://github.com/evopsbr/odoo-brasil/tree/17.0)
+* [Versão 14.0](https://github.com/evopsbr/odoo-brasil/tree/14.0)
 
 
 
